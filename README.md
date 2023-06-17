@@ -1,4 +1,6 @@
-<img align="center" alt="banner" src="https://github.com/LuDevvv/LuDevvv/assets/107328372/c0acdb09-a2bb-48df-86d9-6c0d0f02f708" />
+<img align="center" alt="banner" src="https://github.com/LuDevvv/LuDevvv/assets/107328372/b6404592-1082-445d-af36-a11a6d82968d" />
+
+
 <h1 align="center">Hi 👋, I'm Luis Angel</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
