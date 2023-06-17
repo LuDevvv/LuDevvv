@@ -1,5 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
+<img align="center" alt="banner" src="https://github.com/LuDevvv/LuDevvv/assets/107328372/c0acdb09-a2bb-48df-86d9-6c0d0f02f708" />
 <h1 align="center">Hi 👋, I'm Luis Angel</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
