@@ -1,8 +1,10 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Luis Angel</h1>
 <h3 align="center">A passionate developer from Dominican Republic</h3>
 
 
-<img align="right" alt="programmer" with="400px" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" />
+<img align="right" alt="programmer" autoplay="auto" with="400px" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ludevvv&label=Profile%20views&color=0e75b6&style=flat" alt="ludevvv" /> </p>
 
