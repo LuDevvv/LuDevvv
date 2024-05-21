@@ -7,8 +7,6 @@
 
 <img align="right" alt="programmer" autoplay="auto" with="400px" src="https://miro.medium.com/v2/resize:fit:996/1*um19N_oeTKlmrHMov0O5bA.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ludevvv&label=Profile%20views&color=0e75b6&style=flat" alt="ludevvv" /> </p>
-
 - 🔭 I’m currently working on [SparkChat](https://github.com/LuDevvv/SparkChat)
 
 - 👨‍💻 All of my projects are available at [porfolio.dev.link](porfolio.dev.link)
