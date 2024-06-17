@@ -71,10 +71,15 @@
 ### Working on: CloudShare ☁️
 
 <p align="left">
-  <a href="https://github.com/LuDevvv/QuizzApp" target="_blank">
+  <a href="https://github.com/LuDevvv/CloudShare" target="_blank">
+    <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/15d9e765-56d6-4c4d-a16a-dd3e9101ec48" alt="TrainMe" width="200" height="100" style="object-fit: cover;" />
+  </a>
+  <br/>
+  <br/>
+  <a href="https://github.com/LuDevvv/CloudShare" target="_blank">
     <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/ec4eaea0-e73e-4e64-9802-6a99f1f76f51" alt="TrainMe" width="500" height="300" style="object-fit: cover;" />
   </a>
-  <a href="https://user-images.githubusercontent.com/107328372/236976127-29e82410-f041-4ac0-acc8-d3fdbaa9b26f.pngp" target="_blank">
+  <a href="https://github.com/LuDevvv/CloudShare" target="_blank">
     <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/d1a0a50b-2ff2-43e4-ace2-9d6b6a9d9254" alt="TrainMe" width="500" height="300" style="object-fit: cover;" />
   </a>
 </p>
