@@ -64,3 +64,20 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
   </a>
 </p>
+
+### Projects
+
+<p align="left">
+  <a href="https://github.com/LuDevvv/project1" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project 1" width="150" height="150" />
+  </a>
+  <a href="https://github.com/LuDevvv/project2" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project 2" width="150" height="150" />
+  </a>
+  <a href="https://github.com/LuDevvv/project3" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project 3" width="150" height="150" />
+  </a>
+  <a href="https://github.com/LuDevvv/project4" target="_blank">
+    <img src="https://via.placeholder.com/150" alt="Project 4" width="150" height="150" />
+  </a>
+</p>
