@@ -68,10 +68,10 @@
 <!-- Projects Section -->
 ### Projects
 
-#### Project 1: Awesome Project
+#### Project 1: TrainMe
 <p align="left">
   <a href="https://github.com/LuDevvv/awesome-project" target="_blank">
-    <img src="https://via.placeholder.com/150" alt="Awesome Project" width="150" height="150" />
+    <img src="https://private-user-images.githubusercontent.com/107328372/257021424-ea362a39-56b6-4a42-9e78-37a5b29d4584.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg2Mjc3OTgsIm5iZiI6MTcxODYyNzQ5OCwicGF0aCI6Ii8xMDczMjgzNzIvMjU3MDIxNDI0LWVhMzYyYTM5LTU2YjYtNGE0Mi05ZTc4LTM3YTViMjlkNDU4NC5QTkc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYxN1QxMjMxMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iMmIxZTgyNzEwMTkxM2FkZmQ0MjRjYmExYWZhNmUyNzUwYmZmYjNmZTBhNGY2ZDQzMWMyZjJlMWEwODc4MjM3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.NP9tbSAdBBr8Xi76JX3wpaMNuY5WgWs7nj8C217mXhY" alt="Awesome Project" width="150" height="150" />
   </a>
 </p>
 <p>
