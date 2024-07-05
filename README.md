@@ -65,7 +65,7 @@
   </a>
 </p>
 
-<!-- Projects Section -->
+<!-- Projects Section 
 ### Projects
 
 ### Working on: CloudShare ☁️
@@ -125,3 +125,4 @@
     <img src="https://user-images.githubusercontent.com/107328372/236871655-5e2213da-1401-4c71-8752-c80dc129926f.png" alt="Fantastic Project" width="400" height=300" />
   </a>
 </p>
+-->
