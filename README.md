@@ -123,6 +123,3 @@
     <img src="https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5" alt="Fantastic Project" width="400" height=300" />
   </a>
 </p>
-
-![Giphy Search App Preview](https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5)
-
