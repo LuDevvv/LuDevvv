@@ -14,7 +14,7 @@
 <!-- About Me Section -->
 ### About Me
 
-- 💬 Ask me about **React, Laravel, PHP, Node.js, JavaScript**
+- 💬 Ask me about **React, Nextjs, Typescript, Node.js, Nestjs**
 - 📫 How to reach me: **ludevgarcialouis@gmail.com**
 
 <!-- Connect with Me Section -->
@@ -57,15 +57,23 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" />
   </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg" alt="Laravel" width="40" height="40" />
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nextjs/nextjs-icon.svg" alt="Nextjs" width="40" height="40" />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="Nestjs" width="40" height="40" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Mysql" width="40" height="40" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Typescript" width="40" height="40" />
   </a>
 </p>
 
-<!-- Projects Section 
 ### Projects
 
 ### Working on: CloudShare ☁️
@@ -125,4 +133,3 @@
     <img src="https://user-images.githubusercontent.com/107328372/236871655-5e2213da-1401-4c71-8752-c80dc129926f.png" alt="Fantastic Project" width="400" height=300" />
   </a>
 </p>
--->
