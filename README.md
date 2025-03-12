@@ -120,6 +120,9 @@
 #### Project 4: Giphy
 <p align="left">
   <a href="https://github.com/LuDevvv/giphy-app" target="_blank">
-    <img src="https://user-images.githubusercontent.com/107328372/236871655-5e2213da-1401-4c71-8752-c80dc129926f.png" alt="Fantastic Project" width="400" height=300" />
+    <img src="https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5" alt="Fantastic Project" width="400" height=300" />
   </a>
 </p>
+
+![Giphy Search App Preview](https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5)
+
