@@ -86,9 +86,6 @@
 #### Project 1: TrainMe
 
 <p align="left">
-  <a href="https://github.com/LuDevvv/TrainMeApp" target="_blank">
-    <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/35e2894d-34f2-47de-8d14-c07f885f858e" alt="TrainMe" width="400" height="250" style="object-fit: cover;" />
-  </a>
     <a href="https://github.com/LuDevvv/TrainMeApp" target="_blank">
     <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/86ade805-8335-4793-807c-04063f5e5376" alt="TrainMe" width="400" height="250" style="object-fit: cover;" />
   </a>
@@ -101,9 +98,6 @@
     <a href="https://github.com/LuDevvv/TrainMeApp" target="_blank">
     <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/e8803a94-18a8-4c37-811a-0d8e5dbcd7e5" alt="TrainMe" width="400" height="250" style="object-fit: cover;" />
   </a>
-    <a href="https://github.com/LuDevvv/TrainMeApp" target="_blank">
-    <img src="https://github.com/LuDevvv/LuDevvv/assets/107328372/e9fdbec5-e3a3-44b5-895e-3365df9f4b6d" alt="TrainMe" width="400" height="250" style="object-fit: cover;" />
-  </a>  
 </p>
 
 #### Project 3: QuizzApp
