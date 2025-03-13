@@ -83,7 +83,52 @@
 </p>
 
 
-#### Project 1: TrainMe
+#### Project 1: AdrenalinaRD
+<p align="left">
+  <a href="[INSERT_PROJECT_LINK]" target="_blank">
+    <img src="https://github.com/user-attachments/assets/d62fddad-4244-46b9-8d05-b79935f6ecbd" alt="AdrenaRD" width="400" height="250" style="object-fit: cover;" />
+  </a>
+</p>
+
+
+**Descripción:** Desarrollo de una plataforma web para la gestión de rifas online, donde los administradores pueden crear eventos, gestionar participantes y automatizar pagos y selecciones de ganadores. Los usuarios pueden explorar rifas, comprar boletos, administrar su perfil y consultar su historial de pagos y participaciones.
+
+**Tecnologías:**
+- React
+- Javascript
+- HTML
+- Tailwind
+- Node.js
+- Express.js
+- MySQL
+- DigitalOcean
+- JWT
+- APIs
+
+[🚀 Ir a la App](https://adrenalinard.com/)
+
+
+#### Project 2: Menu Digital
+<p align="left">
+  <a href="[INSERT_PROJECT_LINK]" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6a98ca8d-c543-42c4-af60-15c46d712e11" alt="Menu Digital" width="400" height="250" style="object-fit: cover;" />
+  </a>
+</p>
+
+
+**Descripción:** Aplicación de gestión de menús digitales que ofrece un dashboard centralizado para que restaurantes administren múltiples sucursales, productos y variantes. Los propietarios pueden personalizar perfiles, actualizar menús en tiempo real y gestionar categorías, mientras los clientes disfrutan de una experiencia interactiva con menús dinámicos, mejorando la comunicación y eficiencia del negocio.
+
+**Tecnologías:**
+- React
+- Nextjs
+- Typescript
+- TypeORM
+- Nestjs
+- PostgreSQL
+
+[🌐 Ver Demo](https://epoch.azteli.com/)
+
+#### Project 3: TrainMe
 
 <p align="left">
     <a href="https://github.com/LuDevvv/TrainMeApp" target="_blank">
@@ -100,20 +145,20 @@
   </a>
 </p>
 
-#### Project 3: QuizzApp
+
+#### Project 4: Giphy
+<p align="left">
+  <a href="https://github.com/LuDevvv/giphy-app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5" alt="Fantastic Project" width="400" height=300" />
+  </a>
+</p>
+
+#### Project 5: QuizzApp
 <p align="left">
   <a href="https://github.com/LuDevvv/QuizzApp" target="_blank">
     <img src="https://user-images.githubusercontent.com/107328372/236968095-41f5633a-541e-4660-8a3c-a899690399d7.png" alt="TrainMe" width="400" height="300" style="object-fit: cover;" />
   </a>
   <a href="https://user-images.githubusercontent.com/107328372/236976127-29e82410-f041-4ac0-acc8-d3fdbaa9b26f.pngp" target="_blank">
     <img src="https://user-images.githubusercontent.com/107328372/236976127-29e82410-f041-4ac0-acc8-d3fdbaa9b26f.png" alt="TrainMe" width="400" height="300" style="object-fit: cover;" />
-  </a>
-</p>
-
-
-#### Project 4: Giphy
-<p align="left">
-  <a href="https://github.com/LuDevvv/giphy-app" target="_blank">
-    <img src="https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5" alt="Fantastic Project" width="400" height=300" />
   </a>
 </p>
