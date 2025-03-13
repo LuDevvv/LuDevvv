@@ -145,6 +145,7 @@
   </a>
 </p>
 
+[🌐 Ver Repo](https://github.com/LuDevvv/TrainMeApp)
 
 #### Project 4: Giphy
 <p align="left">
@@ -152,6 +153,9 @@
     <img src="https://github.com/user-attachments/assets/8a8bf6d0-2c6b-4301-ba49-5d4d95333ec5" alt="Fantastic Project" width="400" height=300" />
   </a>
 </p>
+
+[🌐 Ver Repo](https://github.com/LuDevvv/giphy-app)
+
 
 #### Project 5: QuizzApp
 <p align="left">
@@ -162,3 +166,5 @@
     <img src="https://user-images.githubusercontent.com/107328372/236976127-29e82410-f041-4ac0-acc8-d3fdbaa9b26f.png" alt="TrainMe" width="400" height="300" style="object-fit: cover;" />
   </a>
 </p>
+
+[🌐 Ver Repo](https://github.com/LuDevvv/QuizzApp)
