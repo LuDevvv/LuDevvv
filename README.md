@@ -93,18 +93,6 @@
 
 **Descripción:** Desarrollo de una plataforma web para la gestión de rifas online, donde los administradores pueden crear eventos, gestionar participantes y automatizar pagos y selecciones de ganadores. Los usuarios pueden explorar rifas, comprar boletos, administrar su perfil y consultar su historial de pagos y participaciones.
 
-**Tecnologías:**
-- React
-- Javascript
-- HTML
-- Tailwind
-- Node.js
-- Express.js
-- MySQL
-- DigitalOcean
-- JWT
-- APIs
-
 [🚀 Ir a la App](https://adrenalinard.com/)
 
 
@@ -117,14 +105,6 @@
 
 
 **Descripción:** Aplicación de gestión de menús digitales que ofrece un dashboard centralizado para que restaurantes administren múltiples sucursales, productos y variantes. Los propietarios pueden personalizar perfiles, actualizar menús en tiempo real y gestionar categorías, mientras los clientes disfrutan de una experiencia interactiva con menús dinámicos, mejorando la comunicación y eficiencia del negocio.
-
-**Tecnologías:**
-- React
-- Nextjs
-- Typescript
-- TypeORM
-- Nestjs
-- PostgreSQL
 
 [🌐 Ver Demo](https://epoch.azteli.com/)
 
