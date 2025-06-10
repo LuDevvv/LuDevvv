@@ -1,7 +1,8 @@
-<!-- Banner Image -->
+<!-- Banner Image 
 <p align="center">
   <img alt="banner" src="https://github.com/LuDevvv/LuDevvv/assets/107328372/b6404592-1082-445d-af36-a11a6d82968d" />
 </p>
+-->
 
 <h1 align="center">Hi 👋, I'm Luis Angel</h1>
 <h3 align="center">A passionate developer from the Dominican Republic</h3>
